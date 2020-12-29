@@ -1,1 +1,69 @@
 /* Other rules */
+
+input{
+height: 50px;
+width: 620px;
+left: 650px;
+top: 167px;
+border-radius: 3px;
+background: #F8EFEF;
+border-color: black;
+border-width: 2px;
+padding: 5px;
+}
+
+.containerApp{
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+padding-top: 10px;
+}
+
+
+.containerFooter{
+    font-weight: bold;
+    color: black;
+    margin-top: 20px;
+}
+
+h1{
+font-weight: bold;
+color: black;
+font-size: larger;
+font-family: Montserrat;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 59px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+.containerEmoji{
+    height: 60px;
+    width: 1024px;
+    border-radius: 3px;
+    border-color: black;
+    border-width: 3px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.Emojinfo{
+    height: 60px;
+    width: 1024px;
+    border-radius: 3px;
+    border-width: 10px;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
